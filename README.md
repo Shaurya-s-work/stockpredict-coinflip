@@ -21,7 +21,7 @@ QuantFlip uses RSI + MACD technical indicators fed into an XGBoost classifier to
 
 ## Run on Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_HERE)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VAfEG5VE9a8qBSgjQcigiM68ilB_dCNr#scrollTo=0BogJVJuOsFO)
 
 1. Open the notebook in Colab  
 2. Run all cells in order  
